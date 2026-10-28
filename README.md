@@ -19,6 +19,11 @@ The application provides an interactive food menu, real-time cart calculations, 
 - **Sales Analytics:** View lifetime order count and total recorded revenue.
 - **Dark UI:** A dark-themed desktop interface built with CustomTkinter.
 
+--- 
+<p>
+  <img src = "Assets/Asset.png" height=300px/>
+</p>
+
 ## 🛠️ Tech Stack
 
 - **Language:** Python
