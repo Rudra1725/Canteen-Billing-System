@@ -1,1 +1,28 @@
 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local canteen data and transactions
+canteen_data/canteen_sales.csv
+canteen_data/menu_items.json
+canteen_data/item_images/
+
+# Environment variables
+.env
+
